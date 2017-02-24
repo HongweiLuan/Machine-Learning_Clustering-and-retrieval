@@ -1,1 +1,5 @@
 # Machine-Learning_Clustering-and-retrieval
+
+### Clustering and retrieval are some of the most high-impact machine learning tools out there. Retrieval is used in almost every applications and device we interact with, like in providing a set of products related to one a shopper is currently considering, or a list of people you might want to connect with on a social media platform. Clustering can be used to aid retrieval, but is a more broadly useful tool for automatically discovering structure in data, like uncovering groups of similar patients.
+
+### I examined the computational burden of the naive nearest neighbor search algorithm, and instead implement scalable alternatives using KD-trees for handling large datasets and locality sensitive hashing (LSH) for providing approximate nearest neighbors, even in high-dimensional spaces. I explored all of these ideas on a Wikipedia dataset, comparing and contrasting the impact of the various choices I can make on the nearest neighbor results produced.
